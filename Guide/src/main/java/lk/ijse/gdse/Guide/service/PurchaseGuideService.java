@@ -4,11 +4,6 @@ import lk.ijse.gdse.Guide.dto.PurchaseGuideDTO;
 
 import java.util.List;
 
-/**
- * @author : Chanuka Weerakkody
- * @since : 20.1.1
- **/
-
 public interface PurchaseGuideService {
     void savePurchaseGuide(PurchaseGuideDTO dto);
     void updatePurchaseGuide(PurchaseGuideDTO dto);

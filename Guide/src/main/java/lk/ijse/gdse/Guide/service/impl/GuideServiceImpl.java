@@ -12,10 +12,6 @@ import org.springframework.stereotype.Service;
 
 import java.util.List;
 
-/**
- * @author : Chanuka Weerakkody
- * @since : 20.1.1
- **/
 @Service
 @Transactional
 public class GuideServiceImpl implements GuideService {

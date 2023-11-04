@@ -7,10 +7,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.MediaType;
 import org.springframework.web.bind.annotation.*;
 
-/**
- * @author : Chanuka Weerakkody
- * @since : 20.1.1
- **/
+
 @RestController
 @RequestMapping("/purchaseGuide")
 @CrossOrigin

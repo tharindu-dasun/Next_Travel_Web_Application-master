@@ -12,10 +12,7 @@ import java.io.File;
 import java.io.IOException;
 import java.net.URISyntaxException;
 
-/**
- * @author : Chanuka Weerakkody
- * @since : 20.1.1
- **/
+
 @RestController
 @RequestMapping("/guide")
 @CrossOrigin

@@ -8,11 +8,6 @@ import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.query.Param;
 import org.springframework.transaction.annotation.Transactional;
 
-/**
- * @author : Chanuka Weerakkody
- * @since : 20.1.1
- **/
-
 public interface GuideRepo extends JpaRepository<Guide,Long> {
 
     @Modifying

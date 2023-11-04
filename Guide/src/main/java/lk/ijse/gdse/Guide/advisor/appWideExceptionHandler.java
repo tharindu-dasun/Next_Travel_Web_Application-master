@@ -8,10 +8,7 @@ import org.springframework.web.bind.annotation.ExceptionHandler;
 import org.springframework.web.bind.annotation.ResponseStatus;
 import org.springframework.web.bind.annotation.RestControllerAdvice;
 
-/**
- * @author : Chanuka Weerakkody
- * @since : 20.1.1
- **/
+
 
 @CrossOrigin
 @RestControllerAdvice

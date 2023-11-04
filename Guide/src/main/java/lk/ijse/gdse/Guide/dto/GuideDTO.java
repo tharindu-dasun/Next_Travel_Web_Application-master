@@ -5,10 +5,6 @@ import lombok.Data;
 import lombok.NoArgsConstructor;
 import lombok.ToString;
 
-/**
- * @author : Chanuka Weerakkody
- * @since : 20.1.1
- **/
 @AllArgsConstructor
 @NoArgsConstructor
 @Data

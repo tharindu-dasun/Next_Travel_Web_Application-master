@@ -11,10 +11,6 @@ import lombok.ToString;
 
 import java.io.Serializable;
 
-/**
- * @author : Chanuka Weerakkody
- * @since : 20.1.1
- **/
 @AllArgsConstructor
 @NoArgsConstructor
 @Data
